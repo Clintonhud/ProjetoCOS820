@@ -5,5 +5,5 @@ Integrantes
 
 - [Clinton Hudson Moreira Pessoa](https://github.com/Clintonhud)
 - [Mariano Nunes](https://github.com/marianonuness)
-- [Paulo Freitas Silva Júnior](url)
+- [Paulo Freitas Silva Júnior](https://github.com/paulofsj)
 - [Tales Mello Paiva](https://github.com/talesmp)
