@@ -10,4 +10,4 @@ Integrantes
 
 [Pasta do Google Drive com todos os Documentos/Arquivos](https://drive.google.com/drive/folders/1lPes4tMubyy5AXnX1GYeqQY8qWGRcg3K?usp=sharing)
 
-![Modelagem proposta (Camunda Modeler; BPMN 2.0): Processo de Seleção do PESC/COPPE](SelecaoPesc.png)
+![Modelagem proposta (Camunda Modeler; BPMN 2.0): Processo de Seleção do PESC/COPPE](https://github.com/Clintonhud/ProjetoCOS820/blob/main/Processo%20SCRUB%20para%20Disciplina/SelecaoPesc.png)
