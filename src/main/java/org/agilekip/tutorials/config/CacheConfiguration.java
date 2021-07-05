@@ -51,6 +51,8 @@ public class CacheConfiguration {
             createCache(cm, org.agilekip.tutorials.domain.ProcessDefinition.class.getName());
             createCache(cm, org.agilekip.tutorials.domain.ProcessInstance.class.getName());
             createCache(cm, org.agilekip.tutorials.domain.TaskInstance.class.getName());
+            createCache(cm, org.agilekip.tutorials.domain.SelecaoPesc.class.getName());
+            createCache(cm, org.agilekip.tutorials.domain.SelecaoPescProcess.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }

@@ -1,0 +1,28 @@
+{
+  "selecaoPescApp": {
+    "taskUserInformarDocencia": {
+      "home": {
+        "title": "Task User Informar Docencias",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Task User Informar Docencia",
+        "createOrEditLabel": "Create or edit a Task User Informar Docencia",
+        "notFound": "No Task User Informar Docencias found"
+      },
+      "created": "A new Task User Informar Docencia is created with identifier {{ param }}",
+      "updated": "A Task User Informar Docencia is updated with identifier {{ param }}",
+      "deleted": "A Task User Informar Docencia is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Task User Informar Docencia {{ id }}?"
+      },
+      "detail": {
+        "title": "Task User Informar Docencia"
+      },
+      "id": "ID",
+      "nomeCompleto": "Nome Completo",
+      "emailPrincipal": "Email Principal",
+      "docenciaInstituicaoNome": "Docencia Instituicao Nome",
+      "docenciaInstituicaoPais": "Docencia Instituicao Pais",
+      "docenciaNomeDisciplina": "Docencia Nome Disciplina"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "selecaoPescApp": {
+    "selecaoPescStartForm": {
+      "home": {
+        "title": "Selecao Pesc Start Forms",
+        "refreshListLabel": "Atualizar lista",
+        "createLabel": "Criar novo Selecao Pesc Start Form",
+        "createOrEditLabel": "Criar ou editar Selecao Pesc Start Form",
+        "notFound": "Nenhum Selecao Pesc Start Form encontrado"
+      },
+      "created": "Um novo Selecao Pesc Start Form foi criado com o identificador {{ param }}",
+      "updated": "Um Selecao Pesc Start Form foi atualizado com o identificador {{ param }}",
+      "deleted": "Um Selecao Pesc Start Form foi excluído com o identificador {{ param }}",
+      "delete": {
+        "question": "Tem certeza de que deseja excluir Selecao Pesc Start Form {{ id }}?"
+      },
+      "detail": {
+        "title": "Selecao Pesc Start Form"
+      },
+      "id": "ID",
+      "nomeCompleto": "Nome Completo",
+      "emailPrincipal": "Email Principal",
+      "nacionalidade": "Nacionalidade",
+      "documentoCpfPassaporte": "Documento Cpf Passaporte"
+    }
+  }
+}

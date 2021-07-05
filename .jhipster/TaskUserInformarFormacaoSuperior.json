@@ -1,0 +1,52 @@
+{
+  "fields": [
+    {
+      "fieldName": "nomeCompleto",
+      "fieldType": "String",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "emailPrincipal",
+      "fieldType": "String",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "formacaoInstituicaoNome",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "formacaoCursoSuperior",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "formacaoInicio",
+      "fieldType": "LocalDate"
+    },
+    {
+      "fieldName": "formacaoTermino",
+      "fieldType": "LocalDate"
+    },
+    {
+      "fieldName": "temExperienciaProfissional",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "temDocencia",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "entityType": "user-task-form",
+  "processBpmnId": "SelecaoPescProcess",
+  "processEntityName": "SelecaoPescProcess",
+  "taskBpmnId": "TaskUserInformarFormacaoSuperior",
+  "domainEntityName": "SelecaoPesc",
+  "service": "serviceClass",
+  "dto": "mapstruct",
+  "jpaMetamodelFiltering": false,
+  "readOnly": false,
+  "pagination": "no",
+  "skipFakeData": true,
+  "name": "TaskUserInformarFormacaoSuperior",
+  "changelogDate": "20210612000001"
+}

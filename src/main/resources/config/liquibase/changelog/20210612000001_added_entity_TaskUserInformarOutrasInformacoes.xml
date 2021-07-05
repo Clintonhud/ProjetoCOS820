@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.3.xsd
+                        http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
+
+    <!--
+        Added the entity TaskUserInformarOutrasInformacoes.
+    -->
+    <changeSet id="20210612000001-1" author="jhipster">
+        <createTable tableName="task_user_informar_outras_informacoes">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="nome_completo" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="email_principal" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="proficiencia_ingles_tipo_teste" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="proficiencia_ingles_nota" type="${floatType}">
+                <constraints nullable="true" />
+            </column>
+            <!-- jhipster-needle-liquibase-add-column - JHipster will add columns here -->
+        </createTable>
+    </changeSet>
+
+    <!-- jhipster-needle-liquibase-add-changeset - JHipster will add changesets here -->
+</databaseChangeLog>

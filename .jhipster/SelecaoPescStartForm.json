@@ -1,0 +1,33 @@
+{
+  "fields": [
+    {
+      "fieldName": "nomeCompleto",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "emailPrincipal",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nacionalidade",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "documentoCpfPassaporte",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "entityType": "start-form",
+  "processBpmnId": "SelecaoPescProcess",
+  "processEntityName": "SelecaoPescProcess",
+  "domainEntityName": "SelecaoPesc",
+  "service": "serviceClass",
+  "dto": "mapstruct",
+  "jpaMetamodelFiltering": false,
+  "readOnly": false,
+  "pagination": "no",
+  "name": "SelecaoPescStartForm",
+  "changelogDate": "20210612000001",
+  "skipFakeData": true
+}

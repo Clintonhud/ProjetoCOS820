@@ -1,0 +1,27 @@
+{
+  "selecaoPescApp": {
+    "taskUserRealizarCandidatura": {
+      "home": {
+        "title": "Task User Realizar Candidaturas",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Task User Realizar Candidatura",
+        "createOrEditLabel": "Create or edit a Task User Realizar Candidatura",
+        "notFound": "No Task User Realizar Candidaturas found"
+      },
+      "created": "A new Task User Realizar Candidatura is created with identifier {{ param }}",
+      "updated": "A Task User Realizar Candidatura is updated with identifier {{ param }}",
+      "deleted": "A Task User Realizar Candidatura is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Task User Realizar Candidatura {{ id }}?"
+      },
+      "detail": {
+        "title": "Task User Realizar Candidatura"
+      },
+      "id": "ID",
+      "nomeCompleto": "Nome Completo",
+      "emailPrincipal": "Email Principal",
+      "mestradoDoutorado": "Mestrado Doutorado",
+      "linhaAreaInteresse": "Linha Area Interesse"
+    }
+  }
+}

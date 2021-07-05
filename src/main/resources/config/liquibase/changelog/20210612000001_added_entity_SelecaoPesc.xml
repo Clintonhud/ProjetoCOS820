@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.3.xsd
+                        http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
+
+    <!--
+        Added the entity SelecaoPesc.
+    -->
+    <changeSet id="20210612000001-1" author="jhipster">
+        <createTable tableName="selecao_pesc">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="nome_completo" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="email_principal" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="nacionalidade" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="documento_cpf_passaporte" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="data_nascimento" type="date">
+                <constraints nullable="true" />
+            </column>
+            <column name="cidade_nascimento" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="tem_experiencia_profissional" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="tem_docencia" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="formacao_instituicao_nome" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="formacao_curso_superior" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="formacao_inicio" type="date">
+                <constraints nullable="true" />
+            </column>
+            <column name="formacao_termino" type="date">
+                <constraints nullable="true" />
+            </column>
+            <column name="empresa_nome" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="empresa_url_site" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="empresa_funcao" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="docencia_instituicao_nome" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="docencia_instituicao_pais" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="docencia_nome_disciplina" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="proficiencia_ingles_tipo_teste" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="proficiencia_ingles_nota" type="${floatType}">
+                <constraints nullable="true" />
+            </column>
+            <column name="mestrado_doutorado" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="linha_area_interesse" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <!-- jhipster-needle-liquibase-add-column - JHipster will add columns here -->
+        </createTable>
+    </changeSet>
+
+    <!-- jhipster-needle-liquibase-add-changeset - JHipster will add changesets here -->
+</databaseChangeLog>

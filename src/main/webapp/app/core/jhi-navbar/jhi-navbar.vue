@@ -45,6 +45,10 @@
             <font-awesome-icon icon="asterisk" />
             <span v-text="$t('global.menu.entities.myCandidateTasks')">My Candidate Tasks</span>
           </b-dropdown-item>
+          <b-dropdown-item to="/selecao-pesc">
+            <font-awesome-icon icon="asterisk" />
+            <span v-text="$t('global.menu.entities.selecaoPesc')">Selecao Pesc</span>
+          </b-dropdown-item>
           <!-- jhipster-needle-add-entity-to-menu - JHipster will add entities to the menu here -->
         </b-nav-item-dropdown>
         <b-nav-item-dropdown

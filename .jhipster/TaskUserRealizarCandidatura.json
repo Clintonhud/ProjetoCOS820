@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "fieldName": "nomeCompleto",
+      "fieldType": "String",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "emailPrincipal",
+      "fieldType": "String",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "mestradoDoutorado",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "linhaAreaInteresse",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "entityType": "user-task-form",
+  "processBpmnId": "SelecaoPescProcess",
+  "processEntityName": "SelecaoPescProcess",
+  "taskBpmnId": "TaskUserRealizarCandidatura",
+  "domainEntityName": "SelecaoPesc",
+  "service": "serviceClass",
+  "dto": "mapstruct",
+  "jpaMetamodelFiltering": false,
+  "readOnly": false,
+  "pagination": "no",
+  "skipFakeData": true,
+  "name": "TaskUserRealizarCandidatura",
+  "changelogDate": "20210612000001"
+}

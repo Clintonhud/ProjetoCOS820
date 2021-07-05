@@ -11,6 +11,15 @@
         "processInstance": "Process Instances",
         "taskInstance": "All Tasks",
         "myCandidateTasks": "My Tasks",
+        "selecaoPesc": "Selecao Pesc",
+        "taskUserInformarExperienciaProfissional": "Task User Informar Experiencia Profissional",
+        "taskUserInformarDocencia": "Task User Informar Docencia",
+        "taskUserInformarFormacaoSuperior": "Task User Informar Formacao Superior",
+        "taskUserInformarOutrasInformacoes": "Task User Informar Outras Informacoes",
+        "taskUserInformarDadosPessoais": "Task User Informar Dados Pessoais",
+        "selecaoPescStartForm": "Selecao Pesc Start Form",
+        "taskUserRealizarCandidatura": "Task User Realizar Candidatura",
+        "selecaoPescProcess": "Selecao Pesc Process",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {

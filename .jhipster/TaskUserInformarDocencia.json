@@ -1,0 +1,40 @@
+{
+  "fields": [
+    {
+      "fieldName": "nomeCompleto",
+      "fieldType": "String",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "emailPrincipal",
+      "fieldType": "String",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "docenciaInstituicaoNome",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "docenciaInstituicaoPais",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "docenciaNomeDisciplina",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "entityType": "user-task-form",
+  "processBpmnId": "SelecaoPescProcess",
+  "processEntityName": "SelecaoPescProcess",
+  "taskBpmnId": "TaskUserInformarDocencia",
+  "domainEntityName": "SelecaoPesc",
+  "service": "serviceClass",
+  "dto": "mapstruct",
+  "jpaMetamodelFiltering": false,
+  "readOnly": false,
+  "pagination": "no",
+  "skipFakeData": true,
+  "name": "TaskUserInformarDocencia",
+  "changelogDate": "20210612000001"
+}

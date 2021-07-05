@@ -1,0 +1,27 @@
+{
+  "selecaoPescApp": {
+    "taskUserInformarDadosPessoais": {
+      "home": {
+        "title": "Task User Informar Dados Pessoais",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Task User Informar Dados Pessoais",
+        "createOrEditLabel": "Create or edit a Task User Informar Dados Pessoais",
+        "notFound": "No Task User Informar Dados Pessoais found"
+      },
+      "created": "A new Task User Informar Dados Pessoais is created with identifier {{ param }}",
+      "updated": "A Task User Informar Dados Pessoais is updated with identifier {{ param }}",
+      "deleted": "A Task User Informar Dados Pessoais is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Task User Informar Dados Pessoais {{ id }}?"
+      },
+      "detail": {
+        "title": "Task User Informar Dados Pessoais"
+      },
+      "id": "ID",
+      "nomeCompleto": "Nome Completo",
+      "emailPrincipal": "Email Principal",
+      "dataNascimento": "Data Nascimento",
+      "cidadeNascimento": "Cidade Nascimento"
+    }
+  }
+}

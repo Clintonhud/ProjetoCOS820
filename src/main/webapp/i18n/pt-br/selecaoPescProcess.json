@@ -1,0 +1,45 @@
+{
+  "selecaoPescApp": {
+    "selecaoPescProcess": {
+      "home": {
+        "title": "Selecao Pesc Processes",
+        "refreshListLabel": "Atualizar lista",
+        "createLabel": "Criar novo Selecao Pesc Process",
+        "createOrEditLabel": "Criar ou editar Selecao Pesc Process",
+        "notFound": "Nenhum Selecao Pesc Process encontrado"
+      },
+      "created": "Um novo Selecao Pesc Process foi criado com o identificador {{ param }}",
+      "updated": "Um Selecao Pesc Process foi atualizado com o identificador {{ param }}",
+      "deleted": "Um Selecao Pesc Process foi excluído com o identificador {{ param }}",
+      "delete": {
+        "question": "Tem certeza de que deseja excluir Selecao Pesc Process {{ id }}?"
+      },
+      "detail": {
+        "title": "Selecao Pesc Process"
+      },
+      "id": "ID",
+      "nomeCompleto": "Nome Completo",
+      "emailPrincipal": "Email Principal",
+      "nacionalidade": "Nacionalidade",
+      "documentoCpfPassaporte": "Documento Cpf Passaporte",
+      "dataNascimento": "Data Nascimento",
+      "cidadeNascimento": "Cidade Nascimento",
+      "temExperienciaProfissional": "Tem Experiencia Profissional",
+      "temDocencia": "Tem Docencia",
+      "formacaoInstituicaoNome": "Formacao Instituicao Nome",
+      "formacaoCursoSuperior": "Formacao Curso Superior",
+      "formacaoInicio": "Formacao Inicio",
+      "formacaoTermino": "Formacao Termino",
+      "empresaNome": "Empresa Nome",
+      "empresaUrlSite": "Empresa Url Site",
+      "empresaFuncao": "Empresa Funcao",
+      "docenciaInstituicaoNome": "Docencia Instituicao Nome",
+      "docenciaInstituicaoPais": "Docencia Instituicao Pais",
+      "docenciaNomeDisciplina": "Docencia Nome Disciplina",
+      "proficienciaInglesTipoTeste": "Proficiencia Ingles Tipo Teste",
+      "proficienciaInglesNota": "Proficiencia Ingles Nota",
+      "mestradoDoutorado": "Mestrado Doutorado",
+      "linhaAreaInteresse": "Linha Area Interesse"
+    }
+  }
+}

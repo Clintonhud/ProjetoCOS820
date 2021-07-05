@@ -1,0 +1,28 @@
+{
+  "selecaoPescApp": {
+    "taskUserInformarExperienciaProfissional": {
+      "home": {
+        "title": "Task User Informar Experiencia Profissionals",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Task User Informar Experiencia Profissional",
+        "createOrEditLabel": "Create or edit a Task User Informar Experiencia Profissional",
+        "notFound": "No Task User Informar Experiencia Profissionals found"
+      },
+      "created": "A new Task User Informar Experiencia Profissional is created with identifier {{ param }}",
+      "updated": "A Task User Informar Experiencia Profissional is updated with identifier {{ param }}",
+      "deleted": "A Task User Informar Experiencia Profissional is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Task User Informar Experiencia Profissional {{ id }}?"
+      },
+      "detail": {
+        "title": "Task User Informar Experiencia Profissional"
+      },
+      "id": "ID",
+      "nomeCompleto": "Nome Completo",
+      "emailPrincipal": "Email Principal",
+      "empresaNome": "Empresa Nome",
+      "empresaUrlSite": "Empresa Url Site",
+      "empresaFuncao": "Empresa Funcao"
+    }
+  }
+}

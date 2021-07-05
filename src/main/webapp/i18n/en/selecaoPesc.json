@@ -1,0 +1,37 @@
+{
+  "selecaoPescApp": {
+    "selecaoPesc": {
+      "home": {
+        "title": "Selecao Pescs",
+        "refreshListLabel": "Refresh list",
+        "notFound": "No Selecao Pescs found"
+      },
+      "detail": {
+        "title": "Selecao Pesc"
+      },
+      "id": "ID",
+      "nomeCompleto": "Nome Completo",
+      "emailPrincipal": "Email Principal",
+      "nacionalidade": "Nacionalidade",
+      "documentoCpfPassaporte": "Documento Cpf Passaporte",
+      "dataNascimento": "Data Nascimento",
+      "cidadeNascimento": "Cidade Nascimento",
+      "temExperienciaProfissional": "Tem Experiencia Profissional",
+      "temDocencia": "Tem Docencia",
+      "formacaoInstituicaoNome": "Formacao Instituicao Nome",
+      "formacaoCursoSuperior": "Formacao Curso Superior",
+      "formacaoInicio": "Formacao Inicio",
+      "formacaoTermino": "Formacao Termino",
+      "empresaNome": "Empresa Nome",
+      "empresaUrlSite": "Empresa Url Site",
+      "empresaFuncao": "Empresa Funcao",
+      "docenciaInstituicaoNome": "Docencia Instituicao Nome",
+      "docenciaInstituicaoPais": "Docencia Instituicao Pais",
+      "docenciaNomeDisciplina": "Docencia Nome Disciplina",
+      "proficienciaInglesTipoTeste": "Proficiencia Ingles Tipo Teste",
+      "proficienciaInglesNota": "Proficiencia Ingles Nota",
+      "mestradoDoutorado": "Mestrado Doutorado",
+      "linhaAreaInteresse": "Linha Area Interesse"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "selecaoPescApp": {
+    "taskUserInformarOutrasInformacoes": {
+      "home": {
+        "title": "Task User Informar Outras Informacoes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Task User Informar Outras Informacoes",
+        "createOrEditLabel": "Create or edit a Task User Informar Outras Informacoes",
+        "notFound": "No Task User Informar Outras Informacoes found"
+      },
+      "created": "A new Task User Informar Outras Informacoes is created with identifier {{ param }}",
+      "updated": "A Task User Informar Outras Informacoes is updated with identifier {{ param }}",
+      "deleted": "A Task User Informar Outras Informacoes is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Task User Informar Outras Informacoes {{ id }}?"
+      },
+      "detail": {
+        "title": "Task User Informar Outras Informacoes"
+      },
+      "id": "ID",
+      "nomeCompleto": "Nome Completo",
+      "emailPrincipal": "Email Principal",
+      "proficienciaInglesTipoTeste": "Proficiencia Ingles Tipo Teste",
+      "proficienciaInglesNota": "Proficiencia Ingles Nota"
+    }
+  }
+}

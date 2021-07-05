@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "fieldName": "nomeCompleto",
+      "fieldType": "String",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "emailPrincipal",
+      "fieldType": "String",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "proficienciaInglesTipoTeste",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "proficienciaInglesNota",
+      "fieldType": "Float"
+    }
+  ],
+  "relationships": [],
+  "entityType": "user-task-form",
+  "processBpmnId": "SelecaoPescProcess",
+  "processEntityName": "SelecaoPescProcess",
+  "taskBpmnId": "TaskUserInformarOutrasInformacoes",
+  "domainEntityName": "SelecaoPesc",
+  "service": "serviceClass",
+  "dto": "mapstruct",
+  "jpaMetamodelFiltering": false,
+  "readOnly": false,
+  "pagination": "no",
+  "skipFakeData": true,
+  "name": "TaskUserInformarOutrasInformacoes",
+  "changelogDate": "20210612000001"
+}

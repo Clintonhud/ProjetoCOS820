@@ -18,6 +18,15 @@
     <include file="config/liquibase/changelog/00000000000001_added_entity_ProcessDefinition.xml" relativeToChangelogFile="false"/>
     <include file="config/liquibase/changelog/00000000000002_added_entity_ProcessInstance.xml" relativeToChangelogFile="false"/>
     <include file="config/liquibase/changelog/00000000000004_added_entity_TaskInstance.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20210612000001_added_entity_SelecaoPesc.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20210612000001_added_entity_TaskUserInformarExperienciaProfissional.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20210612000001_added_entity_TaskUserInformarDocencia.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20210612000001_added_entity_TaskUserInformarFormacaoSuperior.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20210612000001_added_entity_TaskUserInformarOutrasInformacoes.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20210612000001_added_entity_TaskUserInformarDadosPessoais.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20210612000001_added_entity_SelecaoPescStartForm.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20210612000001_added_entity_TaskUserRealizarCandidatura.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20210612000001_added_entity_SelecaoPescProcess.xml" relativeToChangelogFile="false"/>
     <!-- jhipster-needle-liquibase-add-changelog - JHipster will add liquibase changelogs here -->
     <include file="config/liquibase/changelog/00000000000003_added_entity_constraints_ProcessInstance.xml" relativeToChangelogFile="false"/>
     <include file="config/liquibase/changelog/00000000000005_added_entity_constraints_TaskInstance.xml" relativeToChangelogFile="false"/>

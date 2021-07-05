@@ -52,6 +52,7 @@
     "jwtSecretKey": "MGVjNTcxY2RiZWE2MTBhMzc5OWYwODc1NTc5MjhjMTFiZjc5Njc1ZmZlZmI0ZGJkYWU5ZjQxMmIwYjliOTBjZDg0OGMwZGY4ZmRhZjM4NDFiNjVlOWU5OTEyMmRlODliZDllY2Q3MmEyZTVkYmJjZDZkODY2YWNiNGYwMjQxOGY=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "pt-br"]
+    "languages": ["en", "pt-br"],
+    "entities": ["SelecaoPesc"]
   }
 }
