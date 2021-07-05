@@ -1,3 +1,19 @@
+# ProjetoCOS820
+Disciplina Tópicos Especiais em Engenharia de Software 1
+
+[Pasta do Google Drive com todos os Documentos/Arquivos](https://drive.google.com/drive/folders/1lPes4tMubyy5AXnX1GYeqQY8qWGRcg3K?usp=sharing)
+
+## **Integrantes**
+
+- [Clinton Hudson Moreira Pessoa](https://github.com/Clintonhud)
+- [Mariano Nunes](https://github.com/marianonuness)
+- [Paulo Freitas Silva Júnior](https://github.com/paulofsj)
+- [Tales Mello Paiva](https://github.com/talesmp)
+
+
+## Processo escolhido: Processo de Seleção do PESC/COPPE
+![Modelagem proposta (Camunda Modeler; BPMN 2.0): Processo de Seleção do PESC/COPPE]
+
 # SelecaoPesc
 
 This application was generated using JHipster 7.0.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.0.1](https://www.jhipster.tech/documentation-archive/v7.0.1).
