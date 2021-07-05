@@ -13,6 +13,7 @@ Disciplina Tópicos Especiais em Engenharia de Software 1
 
 ## Processo escolhido: Processo de Seleção do PESC/COPPE
 ![Modelagem proposta (Camunda Modeler; BPMN 2.0): Processo de Seleção do PESC/COPPE]
+(https://github.com/Clintonhud/ProjetoCOS820/blob/main/Processo%20SCRUB%20para%20Disciplina/SelecaoPesc_v6_OR_Homol.png)
 
 # SelecaoPesc
 
